@@ -1,0 +1,6 @@
+Package: FindSideGenes
+Type: Package
+Author: Songchen Yang
+Encoding: UTF-8
+Version: 0.0.1.0
+RoxygenNote: 7.2.3
